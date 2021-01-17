@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb_atlas_link_here",  //insert mongodb atlas link here
+    "jwtSecret": "mysecrettoken"   
+}
